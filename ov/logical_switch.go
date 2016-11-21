@@ -31,3 +31,4 @@ type LSDomainPerSwitch struct {
 	FirmwareVersion string `json:"firmwareVersion"` //"firmwareVersion": "unknown",
 	IPAddress       string `json:"ipAddress"`       //"ipAddress": "172.18.1.11",
 }
+
